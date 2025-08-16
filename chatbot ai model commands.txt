@@ -1,0 +1,3 @@
+cd "C:\Users\sunil\OneDrive\Desktop\pdf-chat"
+.\.venv\Scripts\Activate.ps1
+python local_rag_chatbot.py

@@ -1,0 +1,18 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore FAISS index + metadata
+vectors.faiss
+meta.npy
+
+# Ignore system files
+.DS_Store
+
+# Ignore PDFs (don’t upload your study materials)
+*.pdf
